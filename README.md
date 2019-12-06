@@ -1,5 +1,8 @@
  traffic-tickets-newyork-visualization
  
+ 
+ Blog: https://nycdatascience.com/blog/author/drucila-lefevre/
+ 
  Overview
  ---------
 Anyone who has driven in New York City may have experienced at least one unpleasant experience. As a driver in New York City (NYC), I have learned that you must remain alert at all times. From looking for cyclists before you make a turn to making  sure that pedestrians are paying attention, it can be a challenging experience. 
